@@ -1,0 +1,112 @@
+{
+        "intents":[
+        {
+            "tag": "greeting",
+            "patterns": ["hello", "hi", "hey", "yo", "howdy", "greetings", "salutations", "what's up", "sup", "good morning", "good afternoon", "hola", "nihao"],
+            "responses": ["hey pretty princess", "Hello, what would you like?", "Ugh, what do you need?", "Uh-hi...?", "HIIII!!!", "Distant traveler...what do you seek?", "WHAT DO YOU WANT!??!?!??!", "Hi piece of crap"]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["Bye", "cya", "cu", "*waves*", "bai", "gtg", "ttyl", "Ima hop off"],
+            "responses": ["Bye", "CU", "May fate bring us together again"]
+        },  
+        {
+            "tag": "Strawberries",  
+            "patterns": ["What are strawberries", "What is a strawberry"],
+            "responses": ["Strawberries are a type of red berry fruit.", "Erm...its a red berry fruit🤓"]
+        },  
+        {
+            "tag": "Looks",  
+            "patterns": ["What do they look like?"],
+            "responses": ["There is a calyx and a edible heart shaped red part with seeds🤓."]
+        },  
+        {
+            "tag": "History",  
+            "patterns": ["history of strawberries", "strawberries from rongrong time ago", "strawberry history"],
+            "responses": ["Strawberries were used for medication and were cultivated starting from the 14th century in Europe.", "They were cultivated in Europe long time ago for medication🤓!!"]
+        },  
+        {
+            "tag": "Taste",  
+            "patterns": ["taste of strawberry", "how do my taste buds react to strawberries", "taste"],
+            "responses": ["Strawberries are a sweet, juicy fruit that are often used in sweets because of its deliciousness.", "Sweet and juicy!!🤓"]
+        },  
+        {
+            "tag": "Name",  
+            "patterns": ["origin of the name", "name", "named"],
+            "responses": ["The name 'strawberry' likely comes from the term 'strewn berry' or from the old act of stringing berries on straws."]
+        },  
+        {
+            "tag": "How to eat",  
+            "patterns": ["How to consume", "How to eat"],
+            "responses": ["Strawberries can be eaten raw but it's better to wash off the bugs."]
+        },  
+        {
+            "tag": "Desserts",  
+            "patterns": ["Desserts with strawberry", "Sweets with strawberry", "Recipes with strawberry"],
+            "responses": ["Strawberry desserts are short cakes, tiramisu, smoothies, etc."]
+        },  
+        {
+            "tag": "Uses",  
+            "patterns": ["What are strawberries used in", "encounters with flavor"],
+            "responses": ["Strawberries are used to add flavor to candy, tooth paste, and sauces."]
+        },  
+        {
+            "tag": "vitamins",  
+            "patterns": ["Vitamins", "Vitamins in strawberries"],
+            "responses": ["There is vitamin C, K, and E."]
+        },  
+        {
+            "tag": "Grow",  
+            "patterns": ["How to grow strawberries, How to raise, How to farm"],
+            "responses": ["Plant the seeds in moist soil with fertilizer in the sun."]
+        },  
+        {
+            "tag": "Animals",  
+            "patterns": ["Animals that eat strawberries"],
+            "responses": ["Chipmunks, Slugs, and bugs eat strawberries."]
+        },  
+        {
+            "tag": "All colors",  
+            "patterns": ["Why do they have different colors", "Some have different colors"],
+            "responses": ["Genetic mutations can cause some strawberries to have less pigment, causing them to end up with a different color."]
+        },  
+        {
+            "tag": "Group",  
+            "patterns": ["Are strawberries berries", "R they berries", "Are they berries?"],
+            "responses": ["No, because they have the seeds on the outside."]
+        },  
+        {
+            "tag": "Spoil",  
+            "patterns": ["Time for strawberry to spoil", "How much time to spoil", "Strawberry spoil"],
+            "responses": ["In the fridge it will spoil in a week, but in room temperature it will spoil in 3 days.", "In the fridge about a week, in room temp maybe 3 days🤓."]
+        },  
+        {
+            "tag": "Seeds",  
+            "patterns": ["How many seeds", "Strawberry seeds how much", "Seed amount"],
+            "responses": ["Approximately 200 seeds🤓."]
+        },  
+        {
+            "tag": "Production",  
+            "patterns": ["Where are they grown", "Where are they produced the most", "Manufactured", "Farmed"],
+            "responses": ["China.", "China!!!🤓"]},  
+        {
+            "tag": "Time",  
+            "patterns": ["How long to grow", "How long to be ripe", "Time to grow", "Grow"],
+            "responses": ["It takes about 6 or 7 months for a strawberry to grow.", "Erm about 6 months🤓"]},  
+        {
+            "tag": "Favorite",  
+            "patterns": ["How popular", "Fan favorite"],
+            "responses": ["Strawberries are among one of the top favorite fruits.","It's a fan favorite🤓"]},  
+        {
+            "tag": "Float",  
+            "patterns": ["Strawberries float?", "Can they float"],
+            "responses": ["Yes.","Ofc!","Yes!🤓"]
+        },  
+        {
+            "tag": "Funfact",  
+            "patterns": ["Funfact","Give me a funfact"],
+            "responses": ["They are the first fruit to ripen in the spring!!","They have the symbol of love!", "They are 90% water!"]
+            
+        }
+    ]
+}

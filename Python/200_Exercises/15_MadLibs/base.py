@@ -1,0 +1,16 @@
+bob = input("A weird noun")
+bobo = input("A weird verb")
+boba = input("Someone's name")
+bobs = input("A place")
+bombs = input("A adjective")
+bros = input("A meme")
+
+
+print("...")
+print(boba + " looks around")
+print("He is at " + bobs)
+print("A " + bros + "comes to him and " + bobo)
+print(boba + " is mad now")
+print(boba + " takes out a " + bob + " and proceeds to " + bobo + " the " + bros)
+print(boba + " successfully took down " + bros)
+print("Somewhere..." + bros + " parents let out a huge sob")

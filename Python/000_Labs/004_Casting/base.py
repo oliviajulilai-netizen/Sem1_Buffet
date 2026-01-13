@@ -1,0 +1,7 @@
+print("The first number is: " + str(4))
+print("The second number is: " + str(2))
+print("The third number is: " + str(8))
+bob = str(4)
+bobb = str(2)
+bobbb = str(4*2)
+print(bob + "・" + bobb + " = " + bobbb )

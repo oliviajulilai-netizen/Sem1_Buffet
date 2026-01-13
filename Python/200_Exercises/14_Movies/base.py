@@ -1,0 +1,7 @@
+print("The lorax floats and sings-")
+print("Let it grow, let it grow")
+print("You don't say what you don't sow!")
+print("Plant a seed inside the Earth,")
+print("Just one way to know its worth!")
+print("Let's celebrate the world's rebirth-")
+print("We say, let it grow!!!")

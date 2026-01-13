@@ -1,0 +1,5 @@
+x = int(input("Please enter the first number"))
+xx = int(input("Please enter the second number"))
+print("Your numbers are " + str(x) + " and " + str(xx))
+xxx = str(x*xx)
+print(str(x) + "・" + str(xx) + "＝" + str(xxx))
